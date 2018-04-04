@@ -1,0 +1,16 @@
+.page-layout__viewport {
+  padding-top: 4rem; }
+
+html {
+  box-sizing: border-box; }
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%; }
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit; }

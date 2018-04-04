@@ -7,7 +7,7 @@ import './styles/main.scss'
 const MOUNT_NODE = document.getElementById('root')
 
 let render = () => {
-  const App = require('./components/App').default
+  const App = require('./pages/index.js').default
 
   ReactDOM.render(
     <App />,
